@@ -37,6 +37,12 @@ https://pan.quark.cn/s/350c14d48e34
 
 Here are some examples: 
 
+<p align="center">
+  <img src="gif1.gif" width="200" />
+  <img src="gif2.gif" width="200" />
+  <img src="gif3.gif" width="200" />
+</p>
+
 <div style="display: flex;">
   <a href="./res/res/model_256.mp4">
     <img src="video_thumbnail_1.jpg" alt="Video 1">
