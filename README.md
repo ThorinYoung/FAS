@@ -37,9 +37,17 @@ https://pan.quark.cn/s/350c14d48e34
 
 Here are some examples: 
 
-<div style="display: flex;">   
-   <video width="256" height="256" controls>     <source src="./res/res/model_256.mp4" type="video/mp4">     Your browser does not support the video tag.   </video>      <video width="256" height="256" controls>     <source src="./res/res/res1.mp4" type="video/mp4">     Your browser does not support the video tag.   </video> 
-   <video width="256" height="256" controls>     <source src="./res/res/res2.mp4" type="video/mp4">     Your browser does not support the video tag.   </video> </div>
+<div style="display: flex;">
+  <a href="./res/res/model_256.mp4">
+    <img src="video_thumbnail_1.jpg" alt="Video 1">
+  </a>
+  <a href="./res/res/res1.mp4">
+    <img src="video_thumbnail_2.jpg" alt="Video 2">
+  </a>
+  <a href="./res/res/res2.mp4">
+    <img src="video_thumbnail_3.jpg" alt="Video 3">
+  </a>
+</div>
 
 <div style="display: flex;">
   <div style="flex: 1; text-align: center;">
@@ -75,7 +83,11 @@ Examples with UI:
 
 ### Contributor
 
-Gratitude to Senior Song Jiapeng for his invaluable assistance! Acknowledgments to the contributors of https://github.com/a312863063/generators-with-stylegan2 Special thanks to the contributors of https://github.com/AliaksandrSiarohin/first-order-model
+Gratitude to Senior Song Jiapeng for his invaluable assistance! 
+
+Acknowledgments to the contributors of https://github.com/a312863063/generators-with-stylegan2 
+
+Special thanks to the contributors of https://github.com/AliaksandrSiarohin/first-order-model
 
 ### License
 
