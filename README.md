@@ -1,6 +1,6 @@
-# FAS(Face Animation System)
+# FAS(Face Animation System)![img](D:\notes\pic\05CFA71C-1715681506062.png)
 
-#### It may take a while to load all images.![img](./example/pngs/05CFA71C.png)
+#### It may take a while to load all images.
 
 ### Quick start![img](./example/pngs/05CE8C75.png)
 
