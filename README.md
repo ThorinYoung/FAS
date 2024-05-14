@@ -38,9 +38,9 @@ Here are some examples:
 </p>
 
 <p style="text-align: center;" align='center'>
-  <span style="display: inline-block; width: 256px;">source</span>
-  <span style="display: inline-block; width: 256px;">result1</span>
-  <span style="display: inline-block; width: 256px;">+smile</span>
+  <span style="display: inline-block; width: 256px;" width='256'>source</span>
+  <span style="display: inline-block; width: 256px;" width='256'>result1</span>
+  <span style="display: inline-block; width: 256px;" width='256'>+smile</span>
 </p>
 
 <p align="center">
@@ -50,9 +50,9 @@ Here are some examples:
 </p>
 
 <p style="text-align: center;" align='center'>
-  <span style="display: inline-block; width: 256px;">result2</span>
-  <span style="display: inline-block; width: 256px;">-age</span>
-  <span style="display: inline-block; width: 256px;">+age +glass</span>
+  <span style="display: inline-block; width: 256px;" width='256'>result2</span>
+  <span style="display: inline-block; width: 256px;" width='256'>-age</span>
+  <span style="display: inline-block; width: 256px;" width='256'>+age +glass</span>
 </p>
 
 Examples with UI:
