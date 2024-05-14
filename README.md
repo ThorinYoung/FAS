@@ -1,8 +1,8 @@
 # FAS(Face Animation System)
 
-#### It may take a while to load all images.![img](D:\notes\pic\05CE6C0C.png)
+#### It may take a while to load all images.![img](.\example\pngs\05CFA71C.png)
 
-### Quick start![img](D:\notes\pic\05CE8C75.png)
+### Quick start![img](.\example\pngs\05CE8C75.png)
 
 1. cuda 10.x is recommended, while cuda 11.x / 12.x have not been tested for stylegan2
 
@@ -27,7 +27,7 @@
 
  <img src="./example/1.png" alt="Description of your image">
 
-### Example![img](D:\notes\pic\05CEBAF7.png)
+### Example![img](.\example\pngs\05CEBAF7.png)
 
 Here are some examples: 
 
@@ -68,7 +68,7 @@ Examples with UI:
     <p align='center'><img src="./example/3.gif" width='800' /></p>
 </p>
 
-### Contributor![img](D:\notes\pic\05CFA71C.png)
+### Contributor![img](.\example\pngs\05CFA71C.png)
 
 Gratitude to Senior Song Jiapeng for his invaluable assistance! 
 
