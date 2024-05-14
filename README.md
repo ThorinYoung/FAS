@@ -1,8 +1,8 @@
 # FAS(Face Animation System)
 
-#### It may take a while to load all images.![img](.\example\pngs\05CFA71C.png)
+#### It may take a while to load all images.![img](./example/pngs/05CFA71C.png)
 
-### Quick start![img](.\example\pngs\05CE8C75.png)
+### Quick start![img](./example/pngs/05CE8C75.png)
 
 1. cuda 10.x is recommended, while cuda 11.x / 12.x have not been tested for stylegan2
 
@@ -27,7 +27,7 @@
 
  <img src="./example/1.png" alt="Description of your image">
 
-### Example![img](.\example\pngs\05CEBAF7.png)
+### Example![img](./example/pngs/05CEBAF7.png)
 
 Here are some examples: 
 
@@ -37,7 +37,7 @@ Here are some examples:
   <img src="./res/res/3.gif" width="256" />
 </p>
 
-<p style="text-align: center;">
+<p style="text-align: center;" align='center'>
   <span style="display: inline-block; width: 256px;">source</span>
   <span style="display: inline-block; width: 256px;">result1</span>
   <span style="display: inline-block; width: 256px;">+smile</span>
@@ -49,7 +49,7 @@ Here are some examples:
   <img src="./res/res/6.gif" width="256" />
 </p>
 
-<p style="text-align: center;">
+<p style="text-align: center;" align='center'>
   <span style="display: inline-block; width: 256px;">result2</span>
   <span style="display: inline-block; width: 256px;">-age</span>
   <span style="display: inline-block; width: 256px;">+age +glass</span>
@@ -68,7 +68,7 @@ Examples with UI:
     <p align='center'><img src="./example/3.gif" width='800' /></p>
 </p>
 
-### Contributor![img](.\example\pngs\05CFA71C.png)
+### Contributor![img](./example/pngs/05CFA71C.png)
 
 Gratitude to Senior Song Jiapeng for his invaluable assistance! 
 
