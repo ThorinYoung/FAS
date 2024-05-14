@@ -8,26 +8,20 @@
 
 2. refer to env.yaml to create the environment or use this command below:
 
-   ```  conda env create -n fas -f env.yaml
+   ```conda env create -n fas -f env.yaml```
    
-   ```
-
    if any problem occurred, please install specific packages manually, then run
 
-   ``` conda activate fas
-   
-   ```
+   ```conda activate fas```
 
 3. get checkpoints:
-https://pan.quark.cn/s/350c14d48e34
-   
+   https://pan.quark.cn/s/350c14d48e34
+
    put them all in ./checkpoints
-   
+
 4. run the main.py 
 
-   ``` python main.py
-   
-   ```
+   ```python main.py```
 
    you can get the main window as below:
 
@@ -38,54 +32,41 @@ https://pan.quark.cn/s/350c14d48e34
 Here are some examples: 
 
 <p align="center">
-  <img src="gif1.gif" width="200" />
-  <img src="gif2.gif" width="200" />
-  <img src="gif3.gif" width="200" />
+  <img src="./res/res/0.gif" width="256" />
+  <img src="./res/res/2.gif" width="256" />
+  <img src="./res/res/3.gif" width="256" />
 </p>
 
-<div style="display: flex;">
-  <a href="./res/res/model_256.mp4">
-    <img src="video_thumbnail_1.jpg" alt="Video 1">
-  </a>
-  <a href="./res/res/res1.mp4">
-    <img src="video_thumbnail_2.jpg" alt="Video 2">
-  </a>
-  <a href="./res/res/res2.mp4">
-    <img src="video_thumbnail_3.jpg" alt="Video 3">
-  </a>
+<div style="text-align: center;">
+  <span style="display: inline-block; width: 256px;">source</span>
+  <span style="display: inline-block; width: 256px;">result1</span>
+  <span style="display: inline-block; width: 256px;">+smile</span>
 </div>
 
-<div style="display: flex;">
-  <div style="flex: 1; text-align: center;">
-    source
-  </div>
-  <div style="flex: 1; text-align: center;">
-    result1
-  </div>
-  <div style="flex: 1; text-align: center;">
-    +smile
-  </div>
-</div>
-<div style="display: flex;">   
-   <video width="256" height="256" controls>     <source src="./res/res/t1.mp4" type="video/mp4">     Your browser does not support the video tag.   </video>      <video width="256" height="256" controls>     <source src="./res/res/t2.mp4" type="video/mp4">     Your browser does not support the video tag.   </video> 
-   <video width="256" height="256" controls>     <source src="./res/res/t3.mp4" type="video/mp4">     Your browser does not support the video tag.   </video> </div>
+<p align="center">
+  <img src="./res/res/4.gif" width="256" />
+  <img src="./res/res/5.gif" width="256" />
+  <img src="./res/res/6.gif" width="256" />
+</p>
 
-<div style="display: flex;">
-  <div style="flex: 1; text-align: center;">
-    result2
-  </div>
-  <div style="flex: 1; text-align: center;">
-    -age
-  </div>
-  <div style="flex: 1; text-align: center;">
-    +glass
-  </div>
+<div style="text-align: center;">
+  <span style="display: inline-block; width: 256px;">result2</span>
+  <span style="display: inline-block; width: 256px;">-age</span>
+  <span style="display: inline-block; width: 256px;">+age +glass</span>
 </div>
 
 Examples with UI:
 
-<img src="./example/2.gif">
-<img src="./example/3.gif">
+
+
+<p align='center'>
+    <p align='left'><span>To generate different faces:</span></p>
+    <p align='center'><img src="./example/1.gif" width='800' /></p>
+    <p align='left'><span>To adjust face attributes:</span></p>
+	<p align='center'><img src="./example/2.gif" width='800' /></p>
+    <p align='left'><span>To generate face videos:</span></p>
+    <p align='center'><img src="./example/3.gif" width='800' /></p>
+</p>
 
 ### Contributor
 
