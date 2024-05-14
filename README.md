@@ -38,8 +38,8 @@ Here are some examples:
 </p>
 
 <p style="text-align: center;" align='center'>
-  <span style="display: inline-block; width: 256px;" width='256'>source</span>
-  <span style="display: inline-block; width: 256px;" width='256'>result1</span>
+  <span style="display: inline-block; width: 256px;" width='256'>source||}</span>
+  <span style="display: inline-block; width: 256px;" width='256'>result1||</span>
   <span style="display: inline-block; width: 256px;" width='256'>+smile</span>
 </p>
 
@@ -50,8 +50,8 @@ Here are some examples:
 </p>
 
 <p style="text-align: center;" align='center'>
-  <span style="display: inline-block; width: 256px;" width='256'>result2</span>
-  <span style="display: inline-block; width: 256px;" width='256'>-age</span>
+  <span style="display: inline-block; width: 256px;" width='256'>result2||</span>
+  <span style="display: inline-block; width: 256px;" width='256'>-age||</span>
   <span style="display: inline-block; width: 256px;" width='256'>+age +glass</span>
 </p>
 
@@ -60,11 +60,11 @@ Examples with UI:
 
 
 <p align='center'>
-    <p align='left'><span>To generate different faces:</span></p>
+    <p align='left' style="font-size: 20px;"><span>To generate different faces:</span></p>
     <p align='center'><img src="./example/1.gif" width='800' /></p>
-    <p align='left'><span>To adjust face attributes:</span></p>
+    <p align='left' style="font-size: 20px;"><span>To adjust face attributes:</span></p>
 	<p align='center'><img src="./example/2.gif" width='800' /></p>
-    <p align='left'><span>To generate face videos:</span></p>
+    <p align='left' style="font-size: 20px;"><span>To generate face videos:</span></p>
     <p align='center'><img src="./example/3.gif" width='800' /></p>
 </p>
 
